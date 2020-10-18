@@ -44,13 +44,17 @@ h2{
 
 main p{ 
 	color: white;
-	background-color: white;
-	background-image: url(https://images.squarespace-cdn.com/content/v1/543c8f9ee4b0a31fe76bc398/1534214227179-25DRRJ7JM4F6XROV0N7K/ke17ZwdGBToddI8pDm48kDFgITcRoterXoQdllT5ciUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcV7ZyRJyI8bwZiMJRrgPaAKqUaXS0tb9q_dTyNVba_kClt3J5x-w6oTQbPni4jzRa/Activists.jpg);
+	background-color: black;
+	
 	background-position: center;
 	background-repeat: repeat;
 	width: 100%;
 	text-align: center;
 	height: auto;
+}
+
+.activism{
+	background-image: url(https://miro.medium.com/max/810/1*DEGsanokGIB2lllqiP2WWw.png);
 }
 
 .social{
