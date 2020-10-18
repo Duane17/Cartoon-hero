@@ -37,6 +37,10 @@ h2{
 
 p{
 	background-color: white;
+	background-image: url(https://www.thehindu.com/opinion/lead/article19771653.ece/ALTERNATES/LANDSCAPE_1200/29thactivism);
+	background-repeat: repeat;
+	width: 100%;
+	height: auto;
 }
 
 .social{
