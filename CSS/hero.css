@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	background-color:#1D1C1f ;
+	font-family: 'Sansita Swashed', cursive;
 }
 
 header{
@@ -13,11 +14,17 @@ header img{
 	height: 300px;
 }
 
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 100px;
+}
 
-
-h1{
+header h1{
 	 color: white;
+	 font-size:50px; 
 	 text-align: center;
+
 }
 
 h2{
@@ -35,11 +42,14 @@ h2{
 
 }
 
-p{
+main p{ 
+	color: white;
 	background-color: white;
-	background-image: url(https://www.thehindu.com/opinion/lead/article19771653.ece/ALTERNATES/LANDSCAPE_1200/29thactivism);
+	background-image: url(https://images.squarespace-cdn.com/content/v1/543c8f9ee4b0a31fe76bc398/1534214227179-25DRRJ7JM4F6XROV0N7K/ke17ZwdGBToddI8pDm48kDFgITcRoterXoQdllT5ciUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcV7ZyRJyI8bwZiMJRrgPaAKqUaXS0tb9q_dTyNVba_kClt3J5x-w6oTQbPni4jzRa/Activists.jpg);
+	background-position: center;
 	background-repeat: repeat;
 	width: 100%;
+	text-align: center;
 	height: auto;
 }
 
